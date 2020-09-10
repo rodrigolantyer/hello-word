@@ -1,2 +1,2 @@
 # hello-word
-Initiate my first repository in gitHub
+Initiate my first repository at gitHub
